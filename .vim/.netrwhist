@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/zigzag/Documents/CodingTraining'
+let g:netrw_dirhist_2='/Users/zigzag/BigData-Git/Git-etc/ProblemsByCategory/Array'
+let g:netrw_dirhist_3='/Users/zigzag/BigData-Git/Git-etc/ProblemsByCategory/Array/SubArray'
+let g:netrw_dirhist_4='/Users/zigzag/CodehubCpp_2018'
+let g:netrw_dirhist_5='/Users/zigzag/Downloads/token_sale-4_token_sale'
